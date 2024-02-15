@@ -1,0 +1,26 @@
+{
+    "batsize": 5,
+    "devices": [
+        0
+    ],
+    "numtrain": -1,
+    "regiondrop": -1.0,
+    "controldrop": 0.0,
+    "seed": 12345,
+    "log_image_seed": 42,
+    "freezecontrol": false,
+    "generateonly": true,
+    "softness": 0.5,
+    "strength": 1.0,
+    "limitpadding": false,
+    "extendedcontrol": false,
+    "loadckpt": "pretrained/controlnetmod_hint_interval_delta_step=50086.ckpt",
+    "mergeregions": false,
+    "cas": "global",
+    "forreal": false,
+    "freezedown": false,
+    "simpleencode": false,
+    "threshold": 0.0,
+    "version": "arxiv",
+    "controlscale": 0.0
+}
